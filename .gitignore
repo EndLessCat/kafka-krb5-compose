@@ -1,4 +1,0 @@
-*.keytab
-*.tmp
-kerberos-data/*
-kerberos-keytabs/*
